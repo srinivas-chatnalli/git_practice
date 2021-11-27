@@ -1,2 +1,2 @@
 # git_practice
-Learning git
+Learning git Basics
