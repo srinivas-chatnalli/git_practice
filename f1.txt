@@ -1,2 +1,3 @@
 file1
 new_line
+some another line
